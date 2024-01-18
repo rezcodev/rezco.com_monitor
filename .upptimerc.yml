@@ -2,6 +2,9 @@
 owner: rezcodev # Your GitHub organization or username, where this repository lives
 repo: rezco.com_monitor # The name of this repository
 
+assignees:
+  - rezcodev
+
 sites:
   - name: rezco.co.za
     url: https://www.rezco.co.za
