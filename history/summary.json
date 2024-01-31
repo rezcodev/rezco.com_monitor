@@ -4,18 +4,20 @@
     "url": "https://www.rezco.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/www.rezco.co.za.ico",
     "slug": "rezco-co-za",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2315,
-    "timeDay": 2072,
+    "timeDay": 2144,
     "timeWeek": 2072,
     "timeMonth": 2315,
     "timeYear": 2315,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-31": 0
+    }
   },
   {
     "name": "rezco.com",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-31": 73,
+      "2024-01-31": 488,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
