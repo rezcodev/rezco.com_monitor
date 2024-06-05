@@ -4,7 +4,7 @@
     "url": "https://www.rezco.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/www.rezco.co.za.ico",
     "slug": "rezco-co-za",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 2101,
     "timeYear": 2144,
     "dailyMinutesDown": {
+      "2024-06-05": 0,
       "2024-05-06": 13,
       "2024-01-31": 16
     }
@@ -26,11 +27,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rezco.com.ico",
     "slug": "rezco-com",
     "status": "up",
-    "uptime": "56.34%",
+    "uptime": "56.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "56.34%",
+    "uptimeYear": "56.55%",
     "time": 210,
     "timeDay": 238,
     "timeWeek": 188,
